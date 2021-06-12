@@ -20,5 +20,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nas-misael&show_icons=true&theme=gotham)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nas-misael&repo=github-readme-stats)](https://github.com/nas-misael/order-food)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nas-misael&repo=order-food)](https://github.com/nas-misael/order-food)
 
