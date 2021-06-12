@@ -17,4 +17,5 @@
 <img align="center" alt="misael-nascimento-skill-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%; "></img>
 <img align="center" alt="misael-nascimento-skill-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%; "></img>
 <img align="center" alt="misael-nascimento-skill-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="max-width: 100%; ">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nas-misael&show_icons=true&theme=gotham)
