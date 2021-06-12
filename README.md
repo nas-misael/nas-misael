@@ -22,3 +22,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nas-misael&repo=order-food)](https://github.com/nas-misael/order-food)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nas-misael)](https://github.com/nas-misael)
+
+
+
