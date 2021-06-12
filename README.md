@@ -19,3 +19,6 @@
 <img align="center" alt="misael-nascimento-skill-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="max-width: 100%; ">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nas-misael&show_icons=true&theme=gotham)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nas-misael&repo=github-readme-stats)](https://github.com/nas-misael/github-readme-stats)
+
