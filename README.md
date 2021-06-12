@@ -5,6 +5,6 @@
 - I have been learning more about JavaScript and Digital Marketing :books:.
 
 ## Connect with me:
-<a href="linkedin.com/in/misael-nascimento-347b83211/" target="_blank">
+<a href="https://www.linkedin.com/in/misael-nascimento-347b83211/" target="_blank">
 <img align="center" alt="misael-nascimento-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css" style="max-width:100%;">
 </a>
