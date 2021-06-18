@@ -3,7 +3,7 @@
 - I live in :brazil:, Rio Grande do Sul.
 - I have been working on Divia Marketing Digital as copywriter and with SEO for landing pages :computer:.
 - I have been learning more about JavaScript and Digital Marketing :books:.
-- Google Ads Search and Display Certifications 🥇.
+- Google Ads Search, Display and Video Certifications 🥇.
 - Also, certification in Digital Marketing Principles provided by Google and IAB Europe 🥇.
 
 ## Connect with me:
