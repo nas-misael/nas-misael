@@ -3,7 +3,7 @@
 - I live in :brazil:, Rio Grande do Sul.
 - I have been working on Divia Marketing Digital as copywriter and with SEO for landing pages :computer:.
 - I have been learning more about JavaScript and Digital Marketing :books:.
-- Google Ads Search, Display and Video Certifications 🥇.
+- Google Ads Search, Display, Video and Shopping Certifications 🥇.
 - Also, certification in Digital Marketing Principles provided by Google and IAB Europe 🥇.
 
 ## Connect with me:
@@ -21,6 +21,8 @@
 <img align="center" alt="misael-nascimento-skill-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="max-width: 100%; ">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nas-misael&show_icons=true&theme=gotham)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nas-misael&repo=landing-page)](https://github.com/nas-misael/landing-page)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nas-misael&repo=order-food)](https://github.com/nas-misael/order-food)
 
