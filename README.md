@@ -1,10 +1,9 @@
 ### Hi there 👋
 ### I'm Misael Nascimento
 - I live in :brazil:, Rio Grande do Sul.
-- I have been working on Divia Marketing Digital as copywriter and with SEO for landing pages :computer:.
-- I have been learning more about JavaScript and Digital Marketing :books:.
-- Google Ads Search, Display, Video and Shopping Certifications 🥇.
-- Also, certification in Digital Marketing Principles provided by Google and IAB Europe 🥇.
+- I'm a Junior Developer :computer:.
+- I'm studying at Federal Institute of Education, Science and Technology of Rio Grande do Sul (IFSUL) :books:.
+
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/misael-nascimento-347b83211/" target="_blank">
@@ -27,6 +26,12 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nas-misael&repo=order-food)](https://github.com/nas-misael/order-food)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nas-misael&repo=string-git.io)](https://github.com/nas-misael/string-git.io)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nas-misael&repo=project-ts-orm)](https://github.com/nas-misael/project-ts-orm)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nas-misael&repo=blog-doguito)](https://github.com/nas-misael/blog-doguito)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nas-misael&repo=grocery-list-react)](https://github.com/nas-misael/grocery-list-react)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nas-misael)](https://github.com/nas-misael)
 
